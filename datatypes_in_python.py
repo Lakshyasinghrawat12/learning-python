@@ -1,3 +1,4 @@
+#Datatypes
 print(type(10))          # Int
 print(type(3.14))        # Float
 print(type(1 + 3j))      # Complex number
