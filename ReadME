@@ -1,0 +1,29 @@
+Introduction:
+Python is a high-level programming language for general-purpose programming. It is an open source, interpreted, objected-oriented programming language. Python was created by a Dutch programmer, Guido van Rossum. The name of Python programming language was derived from a British sketch comedy series, Month Python's Flying Circus. The first version was released on February 20, 1991. This 30 days of Python challenge will help you learn the latest version of Python, Python 3 step by step. The topics are broken down into 30 days, where each day contains several topics with easy-to-understand explanations, real-world examples, many hands on exercises and projects.
+
+Data Types in Python:
+
+Mutable Data Types: the values stored in these types of data types it can be changed afterwards. Ex are list, set, Distionary.
+Imutable Data Types: the values stored in these data types values can not be changed afterwards. Ex are Number, String, Tupel.
+
+Numeric data types: int, float, complex.
+int - holds signed integers of non-limited length.
+long- holds long integers(exists in Python 2.x, deprecated in Python 3.x).
+float- holds floating precision numbers and it’s accurate up to 15 decimal places.
+complex- holds complex numbers.
+
+String data types: str.
+The string is a sequence of characters. Python supports Unicode characters. Generally, strings are represented by either single or double-quotes.
+
+Sequence types: list, tuple, range.
+list-The list is a versatile data type exclusive in Python. In a sense, it is the same as the array in C/C++. But the interesting thing about the list in Python is it can simultaneously hold different types of data. Formally list is an ordered sequence of some data written using square brackets([]) and commas(,).
+tuple-The tuple is another data type which is a sequence of data similar to a list. But it is immutable. That means data in a tuple is write-protected. Data in a tuple is written using parenthesis and commas.
+
+Binary types: bytes, bytearray, memoryview
+
+Mapping data type: dict
+Dictionary -Python Dictionary is an unordered sequence of data of key-value pair form. It is similar to the hash table type. Dictionaries are written within curly braces in the form key:value. It is very useful to retrieve data in an optimized way among a large amount of data.
+
+Boolean type: bool
+
+Set data types: set, frozenset
