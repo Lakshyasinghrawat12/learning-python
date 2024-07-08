@@ -1,0 +1,23 @@
+2024-03-23 13:05:17,367 root INFO this is my message
+2024-03-23 13:05:17,368 root ERROR this is my message
+2024-03-23 13:05:17,368 root CRITICAL this is my message
+2024-03-23 13:05:17,422 root INFO we are iterationg through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'lakshya', 'singh']
+2024-03-23 13:05:17,422 root INFO i am inside if statement
+2024-03-23 13:05:17,422 root INFO we are iterationg through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'lakshya', 'singh']
+2024-03-23 13:05:17,422 root INFO i am inside if statement
+2024-03-23 13:05:17,422 root INFO we are iterationg through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'lakshya', 'singh']
+2024-03-23 13:05:17,422 root INFO i am inside if statement
+2024-03-23 13:05:17,423 root INFO we are iterationg through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'lakshya', 'singh']
+2024-03-23 13:05:17,423 root INFO i am inside if statement
+2024-03-23 13:05:17,423 root INFO we are iterationg through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'lakshya', 'singh']
+2024-03-23 13:05:17,424 root INFO i am inside if statement
+2024-03-23 13:05:17,424 root INFO we are iterationg through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'lakshya', 'singh']
+2024-03-23 13:05:17,424 root INFO i am inside if to check list element types
+2024-03-23 13:05:17,424 root INFO i am inside lst element
+2024-03-23 13:05:17,424 root INFO i am inside if statement
+2024-03-23 13:05:17,424 root INFO i am inside lst element
+2024-03-23 13:05:17,424 root INFO i am inside if statement
+2024-03-23 13:05:17,424 root INFO i am inside lst element
+2024-03-23 13:05:17,424 root INFO i am inside if statement
+2024-03-23 13:05:17,424 root INFO we are iterationg through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'lakshya', 'singh']
+2024-03-23 13:05:17,424 root INFO we are iterationg through our list and our local variable is i[1, 2, 3, 34, 4, [2, 3, 4], 'lakshya', 'singh']
