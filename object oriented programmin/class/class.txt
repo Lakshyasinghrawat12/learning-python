@@ -1,0 +1,7 @@
+- class
+- class is bluprint for which a object is created 
+- it is a classification of an real world entity
+- object
+- object is an real world entity
+
+

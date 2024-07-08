@@ -1,0 +1,4 @@
+INFO:root:add_one ran with positional arguments: (1,) and keyword arguments: {}. Return value: 2
+INFO:root:add_one ran with positional arguments: (1,) and keyword arguments: {}. Return value: 2
+INFO:root:add_one ran with positional arguments: (5,) and keyword arguments: {}. Return value: 6
+INFO:root:add_one ran with positional arguments: (5,) and keyword arguments: {}. Return value: 6
