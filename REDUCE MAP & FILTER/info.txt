@@ -1,0 +1,19 @@
+function that takes another function as an argument are known as higher order function
+
+The map() function:
+The map() function or map and filter in Python (also called as map filter in Python) is a higher-order function. 
+As previously stated, this function accepts another function and a sequence of ‘iterables’ as parameters and provides 
+output after applying the function to each iterable in the sequence. It has the following 
+
+
+map() passes each element in the iterable through a function and returns the result of all elements having passed 
+through the function
+
+SYNTAX: map(function, iterables)
+
+
+The filter() function:
+first of all, requires the function to return boolean values (true or false) and then passes each element in the 
+iterable through the function, "filtering" away those that are false. 
+
+SYNTAX: filter(func, iterable)
